@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GenericRec
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=height\ width
+comment2.target=GenericRec(java.lang.Number,\ java.lang.Number)
+comment3.params=
+comment3.target=java.lang.Number\ getHeight()
+comment4.params=height
+comment4.target=void\ setHeight(java.lang.Number)
+comment5.params=
+comment5.target=java.lang.Number\ getwidth()
+comment6.params=width
+comment6.target=void\ setWidth(java.lang.Number)
+comment7.params=
+comment7.target=java.lang.Number\ getArea()
+numComments=8

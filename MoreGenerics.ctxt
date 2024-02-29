@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MoreGenerics
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list
+comment2.target=void\ display(java.lang.Object[])
+comment3.params=a
+comment3.target=void\ bubbleSort(java.lang.Comparable[])
+comment4.params=a
+comment4.target=void\ shuffle(java.lang.Object[])
+numComments=5
